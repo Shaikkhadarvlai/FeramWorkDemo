@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Log: Driver session is created]]>
+    </line>
+    <line>
+      <![CDATA[Log: Apllication is open]]>
+    </line>
+    <line>
+      <![CDATA[Log: Login page is open]]>
+    </line>
+    <line>
+      <![CDATA[Log:Login is completed with valid data set]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-12T08:45:22 IST" name="Suite" finished-at="2024-12-12T08:45:44 IST" duration-ms="21600">
+    <groups>
+    </groups>
+    <test started-at="2024-12-12T08:45:22 IST" name="Test" finished-at="2024-12-12T08:45:44 IST" duration-ms="21600">
+      <class name="com.SwagLabs.TestCases.OverviewPageTest">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:22 IST" name="reports" finished-at="2024-12-12T08:45:22 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:22 IST" name="setUpBrowser" finished-at="2024-12-12T08:45:28 IST" duration-ms="5316" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log: Driver session is created]]>
+            </line>
+            <line>
+              <![CDATA[Log: Apllication is open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:28 IST" name="pageSetUp" finished-at="2024-12-12T08:45:43 IST" duration-ms="15593" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log: Login page is open]]>
+            </line>
+            <line>
+              <![CDATA[Log:Login is completed with valid data set]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifySummary()[pri:1, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:43 IST" name="verifySummary" finished-at="2024-12-12T08:45:43 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySummary -->
+        <test-method signature="verifyOverview()[pri:2, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:43 IST" name="verifyOverview" finished-at="2024-12-12T08:45:44 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOverview -->
+        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@5af3afd9]" started-at="2024-12-12T08:45:44 IST" name="exitReport" finished-at="2024-12-12T08:45:45 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitReport -->
+      </class> <!-- com.SwagLabs.TestCases.OverviewPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

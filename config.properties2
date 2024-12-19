@@ -1,0 +1,25 @@
+url=https://demo.guru99.com/test/newtours/index.php
+
+//login
+uname=Admin
+pass=admin123
+
+//  Contact Information
+Fname=Khadar vali
+LName =vali.shaik
+pnumber =9347249755
+Eail =vali18@gmail.com
+ 
+ //Mailing Information
+ Address=12/45/555
+ city=giddalur
+  StateProvince=prakasham
+ postalCode=523345
+  
+ // User Information 
+ UserName=Admin
+ password=admin123
+ confirmPassword=admin123
+ 
+  
+ 
